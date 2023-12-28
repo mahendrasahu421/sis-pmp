@@ -100,7 +100,7 @@
                         <tbody>
                             <tr>
                                 <td>1</td>
-                                <td>State Master</td>
+                                <td>Admin</td>
                                 <td><span class="badge rounded-pill bg-success me-1 mb-1 mt-1">Active</span></td>
                                 <td><a href="#" onclick="javascript:if(confirm('Do You Want to Edit Permission ?')){return true;}else{return false}"><i class="fa fa-edit"></i></a></td>
                             </tr>
